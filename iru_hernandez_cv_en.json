@@ -23,7 +23,7 @@
             "dates": {
                 "start": "02/2020",
                 "end": "",
-                "actually": true
+                "nowadays": true
             }
         },
         {
@@ -33,7 +33,7 @@
             "dates": {
                 "start": "01/2019",
                 "end": "02/2020",
-                "actually": false
+                "nowadays": false
             }
         },
         {
@@ -43,7 +43,7 @@
             "dates": {
                 "start": "09/2018",
                 "end": "01/2019",
-                "actually": false
+                "nowadays": false
             }
         },
         {
@@ -53,7 +53,7 @@
             "dates": {
                 "start": "02/2018",
                 "end": "07/2018",
-                "actually": false
+                "nowadays": false
             }
         }
     ],
@@ -66,7 +66,7 @@
             "dates": {
                 "start": "2019",
                 "end": "2020",
-                "actually": true
+                "nowadays": true
             }
         },
         {
@@ -77,7 +77,7 @@
             "dates": {
                 "start": "2016",
                 "end": "2018",
-                "actually": false
+                "nowadays": false
             }
         },
         {
@@ -88,7 +88,7 @@
             "dates": {
                 "start": "02/2016",
                 "end": "02/2018",
-                "actually": false
+                "nowadays": false
             }
         },
         {
@@ -99,7 +99,7 @@
             "dates": {
                 "start": "2014",
                 "end": "2016",
-                "actually": false
+                "nowadays": false
             }
         }
     ],
@@ -107,12 +107,12 @@
         {
             "language": "Spanish",
             "level": "",
-            "mother_tongue": true
+            "native": true
         },
         {
             "language": "English",
             "level": "B1",
-            "mother_tongue": false
+            "native": false
         }
     ],
     "skills": [],
