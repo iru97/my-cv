@@ -1,0 +1,120 @@
+{
+    "personal_information": {
+        "photo": "https://media.licdn.com/dms/image/C5603AQEheDWcR2t4KA/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=kmM5wAuh4LZu-93jtBGLeixA2NzcIFnTEJsd1w3Uo_U",
+        "address": "Canary Island",
+        "phone": "(+34) 632 62 49 41",
+        "email": "iruhsan@gmail.com",
+        "links": {
+            "website": "https://www.iruhernandez.tk",
+            "github": "https://github.com/iru97",
+            "linkedin": "https://www.linkedin.com/in/iru-hernandez/",
+            "instagram": "https://www.instagram.com/iruhernandez.dev/?hl=es"
+        },
+        "genre": "Male",
+        "country": "Spain",
+        "birth_date": "03/12/1997"
+    },
+    "personal_goal": "Improve my skills and work with a great team",
+    "professional_experience": [
+        {
+            "company": "Sngular",
+            "occupation": "Frontend developer",
+            "description": "",
+            "dates": {
+                "start": "02/2020",
+                "end": "",
+                "actually": true
+            }
+        },
+        {
+            "company": "Ultebra Solutions",
+            "occupation": "Junior fullstack developer",
+            "description": "Development of custom applications for motoring companies",
+            "dates": {
+                "start": "01/2019",
+                "end": "02/2020",
+                "actually": false
+            }
+        },
+        {
+            "company": "Atos Consulting Canarias",
+            "occupation": "Junior fullstack developer",
+            "description": "Internal Application Development",
+            "dates": {
+                "start": "09/2018",
+                "end": "01/2019",
+                "actually": false
+            }
+        },
+        {
+            "company": "Sirokko Open Source Solutions S.L.",
+            "occupation": "Software developer",
+            "description": "Internal Application Development",
+            "dates": {
+                "start": "02/2018",
+                "end": "07/2018",
+                "actually": false
+            }
+        }
+    ],
+    "education" : [
+        {
+            "school": "Lemoncode",
+            "place": "Online",
+            "title": "Master of Front-end",
+            "level": "Master",
+            "dates": {
+                "start": "2019",
+                "end": "2020",
+                "actually": true
+            }
+        },
+        {
+            "school": "IES El Rincón",
+            "place": "Las Palmas",
+            "title": "Multiplatform application development",
+            "level": "Certificate of Higher Education",
+            "dates": {
+                "start": "2016",
+                "end": "2018",
+                "actually": false
+            }
+        },
+        {
+            "school": "Tech College Aalborg",
+            "place": "Aalborg",
+            "title": "Arduino Microcontroller Course",
+            "level": "Diploma",
+            "dates": {
+                "start": "02/2016",
+                "end": "02/2018",
+                "actually": false
+            }
+        },
+        {
+            "school": "IES El Rincón",
+            "place": "Las Palmas",
+            "title": "Microcomputer systems and networks",
+            "level": "Vocational Education and Training",
+            "dates": {
+                "start": "2014",
+                "end": "2016",
+                "actually": false
+            }
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "level": "",
+            "mother_tongue": true
+        },
+        {
+            "language": "English",
+            "level": "B1",
+            "mother_tongue": false
+        }
+    ],
+    "skills": [],
+    "references": []
+}
